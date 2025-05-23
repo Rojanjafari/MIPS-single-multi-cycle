@@ -1,0 +1,32 @@
+# ModelSim generated files
+transcript
+vsim.wlf
+*.wlf
+*.log
+*.vcd
+*.vstf
+*.ucdb
+*.hcf
+
+# ModelSim work libraries
+work/
+modelsim.ini
+
+# Simulation output directories (if any)
+sim/
+
+# Backup and temp files
+*.bak
+*.tmp
+*~
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
+*.iml
