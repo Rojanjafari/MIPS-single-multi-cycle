@@ -1,6 +1,6 @@
 //===========================================================//
 //
-//			Name : Rojan Jafari & Student ID : 401101535
+//			Name : Rojan Jafari 
 //
 //			Implemented Instructions are:
 //			R format:  add(u), sub(u), and, or, xor, nor, slt, sltu;
