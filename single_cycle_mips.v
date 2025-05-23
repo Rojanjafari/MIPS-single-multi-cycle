@@ -1,7 +1,4 @@
 //===========================================================//
-//
-//			Name : Rojan Jafari 
-//
 //			Implemented Instructions are:
 //			R format:  add(u), sub(u), and, or, xor, nor, slt, sltu;
 //			I format:  beq, bne, lw, sw, addi(u), slti, sltiu, andi, ori, xori, lui.
